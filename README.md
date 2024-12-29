@@ -3,4 +3,4 @@
 
 <a href="https://hiro-maruyama.github.io/sample/index.html">webサイトの公開test</a>　←ここをクリック
 
-<a href="https://hiro-maruyama.github.io/sample/sub/about.html">サブディレクトリのサイトのtest</a>　←ここをクリック
+<a href="https://hiro-maruyama.github.io/sample/sub/abou.html">サブディレクトリのサイトのtest</a>　←ここをクリック
